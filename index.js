@@ -12,6 +12,7 @@ const authRoutes= require("./routes/authRoutes")
 const sessionRoutes= require("./routes/sessionRoutes")
 
 const app = express()
+
 const PORT= 3010
 
 // Middleware
